@@ -1,4 +1,4 @@
-# MTA-98-381-Introduction-to-Programming-Using-Python
+# MTA 98-381 Introduction to Programming Using Python
 
 * Top programming language in IEEE Spectrum programming language ranking 2017, 2018 and 2019
 * Most popular programming language for data science and machine learning.
